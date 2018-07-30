@@ -7,7 +7,7 @@ http://git.ipxe.org/ipxe.git
 currently only works on arm64 machines
 
 ## Customize
-for direct chainloading (if your dhcp server doens't provide) edit 
+for direct chainloading (if your dhcp server doesn't provide) edit 
 ```
 compile_ipxe/chain.ipxe
 ```
